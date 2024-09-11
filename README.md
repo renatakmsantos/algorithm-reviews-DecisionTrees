@@ -1,10 +1,12 @@
 # algorithm-reviews-DecisionTrees
 
-Gerar uma árvore compacta (por exemplo, com até dois níveis no máximo) para o conjunto de dados.
+Objetivos do projeto:
 
-Treine também os outros modelos, como Random Forest, Regressão Logística, Naive Bayes e kNN. 
+1. Gerar uma árvore compacta (por exemplo, com até dois níveis no máximo) para o conjunto de dados.
 
-Calcular a curva ROC dos modelos para comparar qual modelo foi mais bem sucedido para essa base de exemplos.
+2. Treine também os outros modelos, como Random Forest, Regressão Logística, Naive Bayes e kNN. 
+
+3. Calcular a curva ROC dos modelos para comparar qual modelo foi mais bem sucedido para essa base de exemplos.
 
 -------------
 
