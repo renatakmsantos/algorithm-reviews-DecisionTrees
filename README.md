@@ -1,3 +1,4 @@
+
 # algorithm-reviews-DecisionTrees
 
 Objetivos do projeto:
@@ -10,7 +11,8 @@ Objetivos do projeto:
 
 -------------
 
-Dados: Default of Credit Card Clients
+Sobre os Dados: Default of Credit Card Clients
+
 Previsão da Probabilidade de Inadimplência de Clientes de Cartão de Crédito
 
 ✨
@@ -72,3 +74,16 @@ PAY_AMT5: Montante do pagamento anterior em maio de 2005 (dólar NT)
 PAY_AMT6: Montante do pagamento anterior em abril de 2005 (dólar NT)
 
 default.payment.next.month: Inadimplência no pagamento (1=sim, 0=não)
+
+
+
+-------------
+
+Os resultados e conclusões da análise, encontram-se no corpo do notebook (.ipynb)
+
+
+
+
+
+
+-------------
